@@ -59,6 +59,7 @@ To solve the system numerically, the equations of motion are converted into a sy
   <img src="https://github.com/user-attachments/assets/24e50eab-1bf0-4a4c-b21f-584071cb5b0e" alt="First-Order Equations 1" width="600">
 </p>
 
+Then, the system becomes as follows:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2925566d-3d92-413a-8d25-497307a3ea5e" alt="First-Order Equations 2" width="600">
