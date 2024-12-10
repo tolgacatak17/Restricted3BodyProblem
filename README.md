@@ -1,6 +1,6 @@
 # Restricted 3-Body Problem
 
-This repository contains a project for the **Computer Applications Course (ME303)** at **Bogazici University**, Mechanical Engineering Department. This project investigates the motion of a small body under the influence of two massive orbiting bodies using the **Euler's method**, the **Runge-Kutta 4th Order (RK4)** method, and MATLAB's built-in **ode45** function.
+This repository contains a project for the **Computer Applications (ME303)** course at **Bogazici University**, Mechanical Engineering Department. This project investigates the motion of a small body under the influence of two massive orbiting bodies using the **Euler's method**, the **Runge-Kutta 4th Order (RK4)** method, and MATLAB's built-in **ode45** function.
 
 ---
 
