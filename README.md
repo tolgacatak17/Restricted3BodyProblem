@@ -111,7 +111,7 @@ This repository is organized as follows:
 
 3. **`figures/`**: Contains visualizations generated from the simulations, such as trajectories and phase plots.
 
-4. **`report/`**: Includes a detailed report explaining the mathematical model, numerical methods, and analysis of results.
+4. **`report/`**: Contains a detailed report explaining the mathematical model, numerical methods, and analysis of results.
 
 5. **`README.md`**: Provides an overview of the project, its objectives, and instructions for running the code and reproducing the results.
 
