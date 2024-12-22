@@ -103,6 +103,8 @@ The task is to implement the following numerical methods to solve the given set 
 
 ## Repository Structure
 
+This repository is organized as follows:
+
 1. **`animations/`**: Contains animations illustrating the motion of the celestial bodies under the restricted three-body problem dynamics.
 
 2. **`code/`**: Contains the MATLAB script for solving and simulating the restricted three-body problem.
