@@ -107,11 +107,11 @@ This repository is organized as follows:
 
 1. **`animations/`**: Contains animations illustrating the motion of the celestial bodies under the restricted three-body problem dynamics.
 
-2. **`code/`**: Contains the MATLAB script for solving and simulating the restricted three-body problem.
+2. **`figures/`**: Contains visualizations generated from the simulations, such as trajectories and phase plots.
 
-3. **`figures/`**: Contains visualizations generated from the simulations, such as trajectories and phase plots.
+3. **`report/`**: Contains a detailed report explaining the mathematical model, numerical methods, and analysis of results.
 
-4. **`report/`**: Contains a detailed report explaining the mathematical model, numerical methods, and analysis of results.
+4. **`src/`**: Contains the MATLAB script for solving and simulating the restricted three-body problem.
 
 5. **`README.md`**: Provides an overview of the project, its objectives, and instructions for running the code and reproducing the results.
 
