@@ -103,11 +103,11 @@ The task is to implement the following numerical methods to solve the given set 
 
 ## Repository Structure
 
-1. **`code/`**: Contains the MATLAB script for solving and simulating the restricted three-body problem.
+1. **`animations/`**: Contains animations illustrating the motion of the celestial bodies under the restricted three-body problem dynamics.
 
-2. **`figures/`**: Contains visualizations generated from the simulations, such as trajectories and phase plots.
+2. **`code/`**: Contains the MATLAB script for solving and simulating the restricted three-body problem.
 
-3. **`animations/`**: Contains animations illustrating the motion of the celestial bodies under the restricted three-body problem dynamics.
+3. **`figures/`**: Contains visualizations generated from the simulations, such as trajectories and phase plots.
 
 4. **`report/`**: Includes a detailed report explaining the mathematical model, numerical methods, and analysis of results.
 
